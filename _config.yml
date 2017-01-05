@@ -64,7 +64,7 @@ pagination_dir: page
 ## Plugins: http://hexo.io/plugins/
 ## Themes: http://hexo.io/themes/
 #theme: landscape
-theme: hexo-theme-next
+theme: TKL
 
 # Deployment
 ## Docs: http://hexo.io/docs/deployment.html
@@ -87,3 +87,11 @@ feed:
 #sitemap
 sitemap:
   path: sitemap.xml
+
+# Archives
+## 2: Enable pagination
+## 1: Disable pagination
+## 0: Fully Disable
+archive: 1
+category: 1
+tag: 1
