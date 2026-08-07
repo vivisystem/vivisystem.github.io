@@ -5,4 +5,8 @@ db.json
 *.log
 node_modules/
 public/
-.deploy*/
+.deploy*/
+
+# Hug local workspace metadata
+.hug/local/
+
