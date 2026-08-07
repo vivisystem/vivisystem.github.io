@@ -41,13 +41,13 @@ weibo: http://weibo.com/whlittlep
 #about  timeline
 timeline:
 - num: 1
-  word: 2014/06/12-Start
+  word: 2019/12/22-开启0x0000随笔博客
 - num: 2
-  word: 2014/11/29-XXX
+  word: 2020/12/31-2020的最后一天
 - num: 3
-  word: 2015/02/18-DDD
+  word: 2024/06/11-迁移至GitLab/GitHub
 - num: 4
-  word: More
+  word: 持续记录中...
 
 #Links
 links:
